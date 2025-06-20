@@ -1,2 +1,1 @@
-# delta-demo
-this is a demo for git and github practice.
+MiniProjects of Data Analytics
